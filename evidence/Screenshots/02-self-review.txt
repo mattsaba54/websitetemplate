@@ -32,8 +32,13 @@ and removed outdated professional links.
 TO REVIEW - Check keyboard navigation, descriptive link
 labels, image alternative text, and text readability.
 
+
 9. GitHub Pages Deployment
-PENDING - Test the published website after deployment.
+PASS - Published my resume website using GitHub Pages.
+Website URL:
+https://mattsaba54.github.io/websitetemplate/
 
 10. Screenshots
-PENDING - Capture desktop and mobile screenshots as evidence.
+PASS - Captured screenshots of the desktop homepage,
+projects section, and mobile website layout.
+Screenshots are saved in evidence/screenshots/.

@@ -1,0 +1,21 @@
+
+SWE 325 - Career Fair Resume Website
+Student: Matthew Sabadac
+
+Published Website:
+https://mattsaba54.github.io/websitetemplate/
+
+GitHub Repository:
+https://github.com/mattsaba54/websitetemplate
+
+Pull Request:
+https://github.com/mattsaba54/websitetemplate/pull/7
+
+Deployment Platform:
+GitHub Pages
+
+Deployment Branch:
+master
+
+Deployment Status:
+Published and accessible online.
