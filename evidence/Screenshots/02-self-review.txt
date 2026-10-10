@@ -1,0 +1,39 @@
+
+SWE 325 - Resume Website Self-Review
+Student: Matthew Sabadac
+
+1. Desktop Layout
+PASS - Reviewed the website in Google Chrome.
+The text, images, and sections displayed correctly.
+
+2. Mobile Layout
+PASS - Tested the website using Chrome Developer Tools
+with a mobile device viewport.
+The content displayed without overlapping or being cut off.
+
+3. Website Content
+PASS - Updated my introduction, education, technical skills,
+work experience, and two projects.
+
+4. Resume PDF
+PASS - Added my PDF resume and confirmed the link opens.
+
+5. Professional Links
+PASS - Tested my GitHub and LinkedIn profile links.
+
+6. Contact Information
+PASS - Updated my university email address and phone number.
+
+7. Original Template Information
+PASS - Replaced the original author's personal information
+and removed outdated professional links.
+
+8. Accessibility
+TO REVIEW - Check keyboard navigation, descriptive link
+labels, image alternative text, and text readability.
+
+9. GitHub Pages Deployment
+PENDING - Test the published website after deployment.
+
+10. Screenshots
+PENDING - Capture desktop and mobile screenshots as evidence.
