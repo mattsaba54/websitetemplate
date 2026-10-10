@@ -1,0 +1,27 @@
+
+SWE 325 - Career Fair Resume Website
+Student: Matthew Sabadac
+
+Original Repository:
+https://github.com/AmalChUm/websitetemplate
+
+My Fork:
+https://github.com/mattsaba54/websitetemplate
+
+Local Repository Folder:
+C:\Users\vdsab\OneDrive\Documents\GitHub\websitetemplate
+
+Default Branch:
+main
+
+Initial Website Behavior:
+The original website template contained the previous author's
+personal information, work experience, projects, images,
+and professional links.
+
+I customized the template with my own professional information,
+education, cybersecurity and IT experience, technical skills,
+and two projects.
+
+I also added my PDF resume, updated my contact information,
+and tested the website on desktop and mobile layouts.
